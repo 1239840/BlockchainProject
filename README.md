@@ -49,8 +49,8 @@ If you're unable to resolve the issue, consider seeking help from the project's 
 
 We would like to express our gratitude to the following individuals for their contributions to this project:
 
-Helious Zhong (ID: 100797139)
-Mitchell Au (ID: 100790568)
+Helious Zhong (ID: 100797139)/
+Mitchell Au (ID: 100790568)/
 Olasimbo Oni (ID: 100772004)
 
 Their dedication and efforts have been invaluable in the development of this Blockchain final project."
