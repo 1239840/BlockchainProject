@@ -29,6 +29,7 @@ styles.css
 
 
 @Interacting with the Application
+
 Upon accessing the application, you will be presented with the main interface.
 Use the provided buttons, forms, or links to interact with different features of the application.
 Input any required information into the designated fields and submit the forms.
@@ -38,6 +39,7 @@ Customize the appearance of the application by modifying the CSS files located i
 Ensure to keep the structure and naming conventions consistent when making changes to HTML and CSS files to maintain the functionality of the application.
 
 @Troubleshooting
+
 If you encounter any errors or unexpected behavior, refer to the error messages displayed in the terminal where the Python server is running.
 Check the console of your web browser for any JavaScript errors or warnings that might indicate issues with the frontend functionality.
 Review the HTML, CSS, and Python code for any syntax errors or logical inconsistencies.
