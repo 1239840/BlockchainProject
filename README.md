@@ -10,7 +10,9 @@ Olasimbo Oni	100772004
 
 @project environment
 
-Python
+Python, Remix for the smart contract management, Ganche for the project contract address
+
+@The DEMO video is prime GUIDE for you to get how this APP working through the terminal and Development Server@
 
 @File Structure
 
@@ -36,7 +38,7 @@ Input any required information into the designated fields and submit the forms.
 The application will process your inputs and display the results accordingly.
 Navigate between different sections of the application using the provided navigation links or buttons.
 Customize the appearance of the application by modifying the CSS files located in the css directory.
-Ensure to keep the structure and naming conventions consistent when making changes to HTML and CSS files to maintain the functionality of the application.
+Ensure keep the structure and naming conventions consistent when making changes to HTML and CSS files to maintain the functionality of the application.
 
 @Troubleshooting
 
