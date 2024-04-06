@@ -9,9 +9,11 @@ Mitchell Au		100790568/
 Olasimbo Oni	100772004
 
 @project environment
+
 Python
 
 @File Structure
+
 %Smart contract
 FPcontructbuilder.sol
 
